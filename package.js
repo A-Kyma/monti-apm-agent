@@ -1,8 +1,8 @@
 Package.describe({
-  "summary": "Performance Monitoring for Meteor",
-  "version": "2.45.2-beta.2",
+  "summary": "Performance Monitoring for Meteor - Fork MontiAPM:agent",
+  "version": "2.45.3_1",
   "git": "https://github.com/monti-apm/monti-apm-agent.git",
-  "name": "montiapm:agent"
+  "name": "akyma:agent"
 });
 
 var npmModules = {
